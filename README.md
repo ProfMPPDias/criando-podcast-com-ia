@@ -3,24 +3,9 @@
     src="./output/_7a99fd18-5322-4896-8ed5-7221fc171f4d.jpg"
     width="300"
 />
-</p>
-
-<p align="CENTER">
-<a href="https://www.linkedin.com/in/gustavo-calves/">
-    <img 
-        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-
-</p>
-</p>
-<p align="CENTER">
-<a href="https://github.com/gucabal?tab=repositories">
-    <img 
-        src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" 
-</p>
-
 
 <p align="center">
-    preview do podcast
+
 </p>
 
 <div align="center">
